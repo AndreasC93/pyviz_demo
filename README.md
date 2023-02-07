@@ -1,5 +1,5 @@
 # Pyviz_demo
-## Data from the San Fransisco housing market (2010-2016) is visualized to investment opportunities 
+## Data from the San Fransisco housing market (2010-2016) is visualized to identify investment opportunities. 
 ### Plotting total housing units
 The first visualization shows the total housing units in San Fransisco from 2010-2016.![The first visualization shows the total housing units in San Fransisco from 2010-2016.](Images/housingsf_bar.png)
 ### Plotting sale price/sqft vs average rent price
